@@ -1,1 +1,1 @@
-[Practica 1](pr0101/index.md)
+- [Practica 1](pr0101/index.md)
