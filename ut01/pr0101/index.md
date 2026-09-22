@@ -25,6 +25,6 @@ En Python se imprime con la funcion `print()`
 print('hola mundo')
 ```
 
-[Unidad de Trabajo 1](./ut01/index.md)
+[Unidad de Trabajo 1](../index.md)
 
 ![alt text](imagen.png)
