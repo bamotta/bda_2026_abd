@@ -1,3 +1,4 @@
+# Big Data Aplicado
 [**Repositorio**](https://github.com/bamotta/bda_2026_abd)
 
 ### PRACTICAS:
